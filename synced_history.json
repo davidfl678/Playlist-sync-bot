@@ -1,6 +1,1157 @@
 {
-  "schema_version": 2,
+  "schema_version": 3,
   "synced_video_ids": [],
-  "tracks": {},
-  "updated_at": "2026-10-03T10:35:16+00:00"
+  "tracks": {
+    "0KZBm3mzfRw": {
+      "completed": false,
+      "first_seen_at": "2026-10-03T15:13:16+00:00",
+      "platforms": {},
+      "updated_at": "2026-10-03T15:13:16+00:00",
+      "youtube": {
+        "artist": "Nulteex",
+        "original_title": "Brilhando (Slowed)",
+        "position": 100,
+        "title": "Brilhando",
+        "video_id": "0KZBm3mzfRw"
+      }
+    },
+    "0TP-VCsfieE": {
+      "completed": false,
+      "first_seen_at": "2026-10-03T15:13:16+00:00",
+      "platforms": {},
+      "updated_at": "2026-10-03T15:13:16+00:00",
+      "youtube": {
+        "artist": "Mashuq Haque",
+        "original_title": "AIRTEL PHONK",
+        "position": 112,
+        "title": "AIRTEL PHONK",
+        "video_id": "0TP-VCsfieE"
+      }
+    },
+    "0oGnvlK40_Y": {
+      "completed": false,
+      "first_seen_at": "2026-10-03T15:13:16+00:00",
+      "platforms": {},
+      "updated_at": "2026-10-03T15:13:16+00:00",
+      "youtube": {
+        "artist": "QMIIR",
+        "original_title": "DOCE BRISA",
+        "position": 109,
+        "title": "DOCE BRISA",
+        "video_id": "0oGnvlK40_Y"
+      }
+    },
+    "0v4itL2JeBg": {
+      "completed": false,
+      "first_seen_at": "2026-10-03T15:13:16+00:00",
+      "platforms": {},
+      "updated_at": "2026-10-03T15:13:16+00:00",
+      "youtube": {
+        "artist": "Zhanbxqq",
+        "original_title": "MONTAGEM GPT",
+        "position": 110,
+        "title": "MONTAGEM GPT",
+        "video_id": "0v4itL2JeBg"
+      }
+    },
+    "2PY90LSbExU": {
+      "completed": false,
+      "first_seen_at": "2026-10-03T15:13:16+00:00",
+      "platforms": {},
+      "updated_at": "2026-10-03T15:13:16+00:00",
+      "youtube": {
+        "artist": "Rushex",
+        "original_title": "MONTAGEM SONATA",
+        "position": 96,
+        "title": "MONTAGEM SONATA",
+        "video_id": "2PY90LSbExU"
+      }
+    },
+    "4E4VaL5krv8": {
+      "completed": false,
+      "first_seen_at": "2026-10-03T15:13:16+00:00",
+      "platforms": {},
+      "updated_at": "2026-10-03T15:13:16+00:00",
+      "youtube": {
+        "artist": "Rubikdice",
+        "original_title": "MONTAGEM PEGADORA (Slowed)",
+        "position": 91,
+        "title": "MONTAGEM PEGADORA",
+        "video_id": "4E4VaL5krv8"
+      }
+    },
+    "4psxpQEx11g": {
+      "completed": false,
+      "first_seen_at": "2026-10-03T15:13:16+00:00",
+      "platforms": {},
+      "updated_at": "2026-10-03T15:13:16+00:00",
+      "youtube": {
+        "artist": "tienanh109 prod.",
+        "original_title": "X-COOL!",
+        "position": 120,
+        "title": "X-COOL!",
+        "video_id": "4psxpQEx11g"
+      }
+    },
+    "5FiGZLmPqyM": {
+      "completed": false,
+      "first_seen_at": "2026-10-03T15:13:16+00:00",
+      "platforms": {},
+      "updated_at": "2026-10-03T15:13:16+00:00",
+      "youtube": {
+        "artist": "SXYGX",
+        "original_title": "PERDIDO (Slowed)",
+        "position": 115,
+        "title": "PERDIDO",
+        "video_id": "5FiGZLmPqyM"
+      }
+    },
+    "5yr-r7mD_Io": {
+      "completed": false,
+      "first_seen_at": "2026-10-03T15:13:16+00:00",
+      "platforms": {},
+      "updated_at": "2026-10-03T15:13:16+00:00",
+      "youtube": {
+        "artist": "ZAYLO",
+        "original_title": "MONTAGEM URANIUM (Slowed)",
+        "position": 66,
+        "title": "MONTAGEM URANIUM",
+        "video_id": "5yr-r7mD_Io"
+      }
+    },
+    "6CDLnB4X4zg": {
+      "completed": false,
+      "first_seen_at": "2026-10-03T15:13:16+00:00",
+      "platforms": {},
+      "updated_at": "2026-10-03T15:13:16+00:00",
+      "youtube": {
+        "artist": "Raiden",
+        "original_title": "MONTAGEM RAGE (Slowed)",
+        "position": 60,
+        "title": "MONTAGEM RAGE",
+        "video_id": "6CDLnB4X4zg"
+      }
+    },
+    "6snDsbwxRUI": {
+      "completed": false,
+      "first_seen_at": "2026-10-03T15:13:16+00:00",
+      "platforms": {},
+      "updated_at": "2026-10-03T15:13:16+00:00",
+      "youtube": {
+        "artist": "h6itam",
+        "original_title": "MONTAGEM ALQUIMIA (SLOWED)",
+        "position": 103,
+        "title": "MONTAGEM ALQUIMIA",
+        "video_id": "6snDsbwxRUI"
+      }
+    },
+    "7RL_sojNyAI": {
+      "completed": false,
+      "first_seen_at": "2026-10-03T15:13:16+00:00",
+      "platforms": {},
+      "updated_at": "2026-10-03T15:13:16+00:00",
+      "youtube": {
+        "artist": "NUEKI",
+        "original_title": "MONTAGEM ROYAL",
+        "position": 53,
+        "title": "MONTAGEM ROYAL",
+        "video_id": "7RL_sojNyAI"
+      }
+    },
+    "9pHrlN_5BFE": {
+      "completed": false,
+      "first_seen_at": "2026-10-03T15:13:16+00:00",
+      "platforms": {},
+      "updated_at": "2026-10-03T15:13:16+00:00",
+      "youtube": {
+        "artist": "Release",
+        "original_title": "MONTAGEM PUTÃO",
+        "position": 56,
+        "title": "MONTAGEM PUTÃO",
+        "video_id": "9pHrlN_5BFE"
+      }
+    },
+    "Ar09G1EFHCI": {
+      "completed": false,
+      "first_seen_at": "2026-10-03T15:13:16+00:00",
+      "platforms": {},
+      "updated_at": "2026-10-03T15:13:16+00:00",
+      "youtube": {
+        "artist": "ZAYLO",
+        "original_title": "MONTAGEM UNLIMITED (Slowed)",
+        "position": 67,
+        "title": "MONTAGEM UNLIMITED",
+        "video_id": "Ar09G1EFHCI"
+      }
+    },
+    "DoM3DiFnXxM": {
+      "completed": false,
+      "first_seen_at": "2026-10-03T15:13:16+00:00",
+      "platforms": {},
+      "updated_at": "2026-10-03T15:13:16+00:00",
+      "youtube": {
+        "artist": "Lenar",
+        "original_title": "MONTAGEM MIAU",
+        "position": 119,
+        "title": "MONTAGEM MIAU",
+        "video_id": "DoM3DiFnXxM"
+      }
+    },
+    "E-oPcDnX738": {
+      "completed": false,
+      "first_seen_at": "2026-10-03T15:13:16+00:00",
+      "platforms": {},
+      "updated_at": "2026-10-03T15:13:16+00:00",
+      "youtube": {
+        "artist": "dearukia",
+        "original_title": "MELODIA DAÉDRICO (Slowed)",
+        "position": 122,
+        "title": "MELODIA DAÉDRICO",
+        "video_id": "E-oPcDnX738"
+      }
+    },
+    "ElmkJlQW6IM": {
+      "completed": false,
+      "first_seen_at": "2026-10-03T15:13:16+00:00",
+      "platforms": {},
+      "updated_at": "2026-10-03T15:13:16+00:00",
+      "youtube": {
+        "artist": "Dj Samir",
+        "original_title": "MONTAGEM KURO (Slowed)",
+        "position": 54,
+        "title": "MONTAGEM KURO",
+        "video_id": "ElmkJlQW6IM"
+      }
+    },
+    "Fb-YYMMNP-0": {
+      "completed": false,
+      "first_seen_at": "2026-10-03T15:13:16+00:00",
+      "platforms": {},
+      "updated_at": "2026-10-03T15:13:16+00:00",
+      "youtube": {
+        "artist": "Flame Runner",
+        "original_title": "MISTÉRIO",
+        "position": 89,
+        "title": "MISTÉRIO",
+        "video_id": "Fb-YYMMNP-0"
+      }
+    },
+    "FfhSPOQvOws": {
+      "completed": false,
+      "first_seen_at": "2026-10-03T15:13:16+00:00",
+      "platforms": {
+        "spotify": {
+          "detail": "Spotify: API request failed (HTTP 429)",
+          "status": "error",
+          "updated_at": "2026-10-03T15:14:20+00:00"
+        }
+      },
+      "updated_at": "2026-10-03T15:14:20+00:00",
+      "youtube": {
+        "artist": "QMIIR",
+        "original_title": "YALA FUNK",
+        "position": 51,
+        "title": "YALA FUNK",
+        "video_id": "FfhSPOQvOws"
+      }
+    },
+    "GDjjGbdg3n4": {
+      "completed": false,
+      "first_seen_at": "2026-10-03T15:13:16+00:00",
+      "platforms": {},
+      "updated_at": "2026-10-03T15:13:16+00:00",
+      "youtube": {
+        "artist": "Dj Samir",
+        "original_title": "NOITE LENTA (Slowed)",
+        "position": 97,
+        "title": "NOITE LENTA",
+        "video_id": "GDjjGbdg3n4"
+      }
+    },
+    "IKy169GvdDM": {
+      "completed": false,
+      "first_seen_at": "2026-10-03T15:13:16+00:00",
+      "platforms": {},
+      "updated_at": "2026-10-03T15:13:16+00:00",
+      "youtube": {
+        "artist": "Nakama",
+        "original_title": "JOGADA (Slowed)",
+        "position": 95,
+        "title": "JOGADA",
+        "video_id": "IKy169GvdDM"
+      }
+    },
+    "KgayxOF4Y7E": {
+      "completed": false,
+      "first_seen_at": "2026-10-03T15:13:16+00:00",
+      "platforms": {},
+      "updated_at": "2026-10-03T15:13:16+00:00",
+      "youtube": {
+        "artist": "ATLXS",
+        "original_title": "ATLXS - PASSO BEM SOLTO (SLOWED)",
+        "position": 124,
+        "title": "PASSO BEM SOLTO",
+        "video_id": "KgayxOF4Y7E"
+      }
+    },
+    "LtK1bRqOM8g": {
+      "completed": false,
+      "first_seen_at": "2026-10-03T15:13:16+00:00",
+      "platforms": {},
+      "updated_at": "2026-10-03T15:13:16+00:00",
+      "youtube": {
+        "artist": "LOWX, HØLD",
+        "original_title": "LOWX, HØLD - STAY WITH ME",
+        "position": 85,
+        "title": "STAY WITH ME",
+        "video_id": "LtK1bRqOM8g"
+      }
+    },
+    "Md3MdKXBxiE": {
+      "completed": false,
+      "first_seen_at": "2026-10-03T15:13:16+00:00",
+      "platforms": {},
+      "updated_at": "2026-10-03T15:13:16+00:00",
+      "youtube": {
+        "artist": "Flame Runner",
+        "original_title": "Arcano (Slowed)",
+        "position": 94,
+        "title": "Arcano",
+        "video_id": "Md3MdKXBxiE"
+      }
+    },
+    "MeamyO9UxPk": {
+      "completed": false,
+      "first_seen_at": "2026-10-03T15:13:16+00:00",
+      "platforms": {},
+      "updated_at": "2026-10-03T15:13:16+00:00",
+      "youtube": {
+        "artist": "bxkq, PXLWYSE",
+        "original_title": "bxkq, PXLWYSE - TE CONOCÍ - Super Slowed (Official Audio)",
+        "position": 121,
+        "title": "TE CONOCÍ - Super",
+        "video_id": "MeamyO9UxPk"
+      }
+    },
+    "NGfj_7pNd5o": {
+      "completed": false,
+      "first_seen_at": "2026-10-03T15:13:16+00:00",
+      "platforms": {},
+      "updated_at": "2026-10-03T15:13:16+00:00",
+      "youtube": {
+        "artist": "QMIIR",
+        "original_title": "LA MUSICA (Slowed)",
+        "position": 116,
+        "title": "LA MUSICA",
+        "video_id": "NGfj_7pNd5o"
+      }
+    },
+    "OLwlgKlLy00": {
+      "completed": false,
+      "first_seen_at": "2026-10-03T15:13:16+00:00",
+      "platforms": {},
+      "updated_at": "2026-10-03T15:13:16+00:00",
+      "youtube": {
+        "artist": "Dj Samir",
+        "original_title": "SOCA CALIENTA (Slowed)",
+        "position": 86,
+        "title": "SOCA CALIENTA",
+        "video_id": "OLwlgKlLy00"
+      }
+    },
+    "OxoUlTei_ew": {
+      "completed": false,
+      "first_seen_at": "2026-10-03T15:13:16+00:00",
+      "platforms": {},
+      "updated_at": "2026-10-03T15:13:16+00:00",
+      "youtube": {
+        "artist": "ENTAO, Aeri, DVilão",
+        "original_title": "ENTAO, Aeri, DVilão - MONTAGEM OBSIDIAN (Slowed)",
+        "position": 83,
+        "title": "MONTAGEM OBSIDIAN",
+        "video_id": "OxoUlTei_ew"
+      }
+    },
+    "PSK47oPcwWw": {
+      "completed": false,
+      "first_seen_at": "2026-10-03T15:13:16+00:00",
+      "platforms": {},
+      "updated_at": "2026-10-03T15:13:16+00:00",
+      "youtube": {
+        "artist": "rxpid",
+        "original_title": "MONTAGEM FLUXO (Ultra Slowed)",
+        "position": 80,
+        "title": "MONTAGEM FLUXO",
+        "video_id": "PSK47oPcwWw"
+      }
+    },
+    "PSxliJcGQiw": {
+      "completed": false,
+      "first_seen_at": "2026-10-03T15:13:16+00:00",
+      "platforms": {},
+      "updated_at": "2026-10-03T15:13:16+00:00",
+      "youtube": {
+        "artist": "Pxter",
+        "original_title": "MONTAGEM SAVAGE (Super Slowed)",
+        "position": 68,
+        "title": "MONTAGEM SAVAGE",
+        "video_id": "PSxliJcGQiw"
+      }
+    },
+    "QYoLLoQ1J-Q": {
+      "completed": false,
+      "first_seen_at": "2026-10-03T15:13:16+00:00",
+      "platforms": {},
+      "updated_at": "2026-10-03T15:13:16+00:00",
+      "youtube": {
+        "artist": "Nulteex",
+        "original_title": "LOUCA",
+        "position": 90,
+        "title": "LOUCA",
+        "video_id": "QYoLLoQ1J-Q"
+      }
+    },
+    "SLak4Ercj9o": {
+      "completed": false,
+      "first_seen_at": "2026-10-03T15:13:16+00:00",
+      "platforms": {},
+      "updated_at": "2026-10-03T15:13:16+00:00",
+      "youtube": {
+        "artist": "Ogryzek",
+        "original_title": "EMPIRE",
+        "position": 114,
+        "title": "EMPIRE",
+        "video_id": "SLak4Ercj9o"
+      }
+    },
+    "S_dY76TsVDU": {
+      "completed": false,
+      "first_seen_at": "2026-10-03T15:13:16+00:00",
+      "platforms": {},
+      "updated_at": "2026-10-03T15:13:16+00:00",
+      "youtube": {
+        "artist": "ICEDMANE",
+        "original_title": "FUNK SERENO (SLOWED)",
+        "position": 93,
+        "title": "FUNK SERENO",
+        "video_id": "S_dY76TsVDU"
+      }
+    },
+    "UIuBtl4rz0E": {
+      "completed": false,
+      "first_seen_at": "2026-10-03T15:13:16+00:00",
+      "platforms": {},
+      "updated_at": "2026-10-03T15:13:16+00:00",
+      "youtube": {
+        "artist": "bxkq",
+        "original_title": "bxkq - LUZ ROJA - Slowed (Official Audio)",
+        "position": 107,
+        "title": "LUZ ROJA",
+        "video_id": "UIuBtl4rz0E"
+      }
+    },
+    "Uzos_GJmM6E": {
+      "completed": false,
+      "first_seen_at": "2026-10-03T15:13:16+00:00",
+      "platforms": {},
+      "updated_at": "2026-10-03T15:13:16+00:00",
+      "youtube": {
+        "artist": "Zhanbxqq",
+        "original_title": "VEM NO VEKI",
+        "position": 101,
+        "title": "VEM NO VEKI",
+        "video_id": "Uzos_GJmM6E"
+      }
+    },
+    "VmpDIEajzsc": {
+      "completed": false,
+      "first_seen_at": "2026-10-03T15:13:16+00:00",
+      "platforms": {},
+      "updated_at": "2026-10-03T15:13:16+00:00",
+      "youtube": {
+        "artist": "Nateki",
+        "original_title": "Risa (Slowed)",
+        "position": 117,
+        "title": "Risa",
+        "video_id": "VmpDIEajzsc"
+      }
+    },
+    "VtP__t7pGVQ": {
+      "completed": false,
+      "first_seen_at": "2026-10-03T15:13:16+00:00",
+      "platforms": {},
+      "updated_at": "2026-10-03T15:13:16+00:00",
+      "youtube": {
+        "artist": "DJ EZG",
+        "original_title": "MONTAGEM TOPGGO (Slowed Version)",
+        "position": 61,
+        "title": "MONTAGEM TOPGGO",
+        "video_id": "VtP__t7pGVQ"
+      }
+    },
+    "W8RoW58lPTk": {
+      "completed": false,
+      "first_seen_at": "2026-10-03T15:13:16+00:00",
+      "platforms": {},
+      "updated_at": "2026-10-03T15:13:16+00:00",
+      "youtube": {
+        "artist": "Hwungii",
+        "original_title": "VOCE NA MIRA (Super Slowed)",
+        "position": 123,
+        "title": "VOCE NA MIRA",
+        "video_id": "W8RoW58lPTk"
+      }
+    },
+    "WDbpp011zhk": {
+      "completed": false,
+      "first_seen_at": "2026-10-03T15:13:16+00:00",
+      "platforms": {},
+      "updated_at": "2026-10-03T15:13:16+00:00",
+      "youtube": {
+        "artist": "Raiden",
+        "original_title": "FUNK TONTO (feat. Mc Ombrinho) [Slowed]",
+        "position": 70,
+        "title": "FUNK TONTO (feat. Mc Ombrinho",
+        "video_id": "WDbpp011zhk"
+      }
+    },
+    "WVyBBQlgdk4": {
+      "completed": false,
+      "first_seen_at": "2026-10-03T15:13:16+00:00",
+      "platforms": {},
+      "updated_at": "2026-10-03T15:13:16+00:00",
+      "youtube": {
+        "artist": "DJ VETA3",
+        "original_title": "MONTAGEM HELLO",
+        "position": 75,
+        "title": "MONTAGEM HELLO",
+        "video_id": "WVyBBQlgdk4"
+      }
+    },
+    "XgMKhYAYkYo": {
+      "completed": false,
+      "first_seen_at": "2026-10-03T15:13:16+00:00",
+      "platforms": {},
+      "updated_at": "2026-10-03T15:13:16+00:00",
+      "youtube": {
+        "artist": "Zhanbxqq",
+        "original_title": "VOU PASSAR (Ultra Slowed)",
+        "position": 99,
+        "title": "VOU PASSAR",
+        "video_id": "XgMKhYAYkYo"
+      }
+    },
+    "ZxSgImC8IiQ": {
+      "completed": false,
+      "first_seen_at": "2026-10-03T15:13:16+00:00",
+      "platforms": {},
+      "updated_at": "2026-10-03T15:13:16+00:00",
+      "youtube": {
+        "artist": "SR2X",
+        "original_title": "Cryon",
+        "position": 82,
+        "title": "Cryon",
+        "video_id": "ZxSgImC8IiQ"
+      }
+    },
+    "_32iiJ7-rVk": {
+      "completed": false,
+      "first_seen_at": "2026-10-03T15:13:16+00:00",
+      "platforms": {},
+      "updated_at": "2026-10-03T15:13:16+00:00",
+      "youtube": {
+        "artist": "QMIIR",
+        "original_title": "QMIIR,Akhmedov ~ HUEGO [TROPICAL PHONK\\FUNK]",
+        "position": 111,
+        "title": "QMIIR,Akhmedov ~ HUEGO [TROPICAL PHONK\\FUNK",
+        "video_id": "_32iiJ7-rVk"
+      }
+    },
+    "_KYsdNsowoY": {
+      "completed": false,
+      "first_seen_at": "2026-10-03T15:13:16+00:00",
+      "platforms": {},
+      "updated_at": "2026-10-03T15:13:16+00:00",
+      "youtube": {
+        "artist": "SXYGX",
+        "original_title": "VEM MEU AMOR",
+        "position": 106,
+        "title": "VEM MEU AMOR",
+        "video_id": "_KYsdNsowoY"
+      }
+    },
+    "a9WGBSol0oM": {
+      "completed": false,
+      "first_seen_at": "2026-10-03T15:13:16+00:00",
+      "platforms": {},
+      "updated_at": "2026-10-03T15:13:16+00:00",
+      "youtube": {
+        "artist": "PHNKR",
+        "original_title": "LUMINOUS (Slowed)",
+        "position": 92,
+        "title": "LUMINOUS",
+        "video_id": "a9WGBSol0oM"
+      }
+    },
+    "ameHROYpzyc": {
+      "completed": false,
+      "first_seen_at": "2026-10-03T15:13:16+00:00",
+      "platforms": {},
+      "updated_at": "2026-10-03T15:13:16+00:00",
+      "youtube": {
+        "artist": "NA SHIRA",
+        "original_title": "NA SHIRA (Slowed) - DJ Zarek, zericxxn, SK3TCH01",
+        "position": 65,
+        "title": "DJ Zarek, zericxxn, SK3TCH01",
+        "video_id": "ameHROYpzyc"
+      }
+    },
+    "aucH-o1WDtE": {
+      "completed": false,
+      "first_seen_at": "2026-10-03T15:13:16+00:00",
+      "platforms": {},
+      "updated_at": "2026-10-03T15:13:16+00:00",
+      "youtube": {
+        "artist": "SPORBLIX",
+        "original_title": "MONTAGEM SINISTRADA",
+        "position": 74,
+        "title": "MONTAGEM SINISTRADA",
+        "video_id": "aucH-o1WDtE"
+      }
+    },
+    "cIgdYy0ZcTM": {
+      "completed": false,
+      "first_seen_at": "2026-10-03T15:13:16+00:00",
+      "platforms": {},
+      "updated_at": "2026-10-03T15:13:16+00:00",
+      "youtube": {
+        "artist": "Dj Samir",
+        "original_title": "LUNA VEM (Slowed)",
+        "position": 59,
+        "title": "LUNA VEM",
+        "video_id": "cIgdYy0ZcTM"
+      }
+    },
+    "cUJR4CiGdfY": {
+      "completed": false,
+      "first_seen_at": "2026-10-03T15:13:16+00:00",
+      "platforms": {},
+      "updated_at": "2026-10-03T15:13:16+00:00",
+      "youtube": {
+        "artist": "h6itam",
+        "original_title": "MONTAGEM MONARCA",
+        "position": 71,
+        "title": "MONTAGEM MONARCA",
+        "video_id": "cUJR4CiGdfY"
+      }
+    },
+    "d1vUvvOvCyI": {
+      "completed": false,
+      "first_seen_at": "2026-10-03T15:13:16+00:00",
+      "platforms": {},
+      "updated_at": "2026-10-03T15:13:16+00:00",
+      "youtube": {
+        "artist": "LOWX",
+        "original_title": "LOWX - SIENTE DANCE",
+        "position": 102,
+        "title": "SIENTE DANCE",
+        "video_id": "d1vUvvOvCyI"
+      }
+    },
+    "dBdxX-xAGg4": {
+      "completed": false,
+      "first_seen_at": "2026-10-03T15:13:16+00:00",
+      "platforms": {},
+      "updated_at": "2026-10-03T15:13:16+00:00",
+      "youtube": {
+        "artist": "Karioz",
+        "original_title": "Chama Suave (Ultra Slowed) || Flame Runner, DJ Samir [ PHONKSONGS ]",
+        "position": 58,
+        "title": "Chama Suave || Flame Runner, DJ Samir [ PHONKSONGS",
+        "video_id": "dBdxX-xAGg4"
+      }
+    },
+    "dOcTxjnGZps": {
+      "completed": false,
+      "first_seen_at": "2026-10-03T15:13:16+00:00",
+      "platforms": {},
+      "updated_at": "2026-10-03T15:13:16+00:00",
+      "youtube": {
+        "artist": "",
+        "original_title": "",
+        "position": 125,
+        "title": "",
+        "video_id": "dOcTxjnGZps"
+      }
+    },
+    "el7WwyFLjy0": {
+      "completed": false,
+      "first_seen_at": "2026-10-03T15:13:16+00:00",
+      "platforms": {},
+      "updated_at": "2026-10-03T15:13:16+00:00",
+      "youtube": {
+        "artist": "Dj Samir",
+        "original_title": "ALMA PARTIDA",
+        "position": 84,
+        "title": "ALMA PARTIDA",
+        "video_id": "el7WwyFLjy0"
+      }
+    },
+    "fmrsBXzj22Q": {
+      "completed": false,
+      "first_seen_at": "2026-10-03T15:13:16+00:00",
+      "platforms": {},
+      "updated_at": "2026-10-03T15:13:16+00:00",
+      "youtube": {
+        "artist": "Espato",
+        "original_title": "LOUCARA FUNK!",
+        "position": 76,
+        "title": "LOUCARA FUNK!",
+        "video_id": "fmrsBXzj22Q"
+      }
+    },
+    "k5zMNFGfb7I": {
+      "completed": false,
+      "first_seen_at": "2026-10-03T15:13:16+00:00",
+      "platforms": {},
+      "updated_at": "2026-10-03T15:13:16+00:00",
+      "youtube": {
+        "artist": "DJ Raulipues",
+        "original_title": "Montagem Erva (Slowed)",
+        "position": 118,
+        "title": "Montagem Erva",
+        "video_id": "k5zMNFGfb7I"
+      }
+    },
+    "kGQC5bMGY5M": {
+      "completed": false,
+      "first_seen_at": "2026-10-03T15:13:16+00:00",
+      "platforms": {},
+      "updated_at": "2026-10-03T15:13:16+00:00",
+      "youtube": {
+        "artist": "KPHK",
+        "original_title": "VOY A CRECER (SLOWED)",
+        "position": 73,
+        "title": "VOY A CRECER",
+        "video_id": "kGQC5bMGY5M"
+      }
+    },
+    "lCAIVbgeMDw": {
+      "completed": false,
+      "first_seen_at": "2026-10-03T15:13:16+00:00",
+      "platforms": {},
+      "updated_at": "2026-10-03T15:13:16+00:00",
+      "youtube": {
+        "artist": "SHX4",
+        "original_title": "BACKROOMS",
+        "position": 52,
+        "title": "BACKROOMS",
+        "video_id": "lCAIVbgeMDw"
+      }
+    },
+    "mpdLDTi_inA": {
+      "completed": false,
+      "first_seen_at": "2026-10-03T15:13:16+00:00",
+      "platforms": {},
+      "updated_at": "2026-10-03T15:13:16+00:00",
+      "youtube": {
+        "artist": "ZMAJOR",
+        "original_title": "MTG PRISM (Super Slowed)",
+        "position": 79,
+        "title": "MTG PRISM",
+        "video_id": "mpdLDTi_inA"
+      }
+    },
+    "nIPf1zeHh-w": {
+      "completed": false,
+      "first_seen_at": "2026-10-03T15:13:16+00:00",
+      "platforms": {},
+      "updated_at": "2026-10-03T15:13:16+00:00",
+      "youtube": {
+        "artist": "ATIC",
+        "original_title": "MONTAGEM PRETREN (Slowed)",
+        "position": 57,
+        "title": "MONTAGEM PRETREN",
+        "video_id": "nIPf1zeHh-w"
+      }
+    },
+    "nXEDDjpvjxU": {
+      "completed": false,
+      "first_seen_at": "2026-10-03T15:13:16+00:00",
+      "platforms": {},
+      "updated_at": "2026-10-03T15:13:16+00:00",
+      "youtube": {
+        "artist": "h6itam",
+        "original_title": "MONTAGEM ARCANO",
+        "position": 77,
+        "title": "MONTAGEM ARCANO",
+        "video_id": "nXEDDjpvjxU"
+      }
+    },
+    "qGNDabt9LU8": {
+      "completed": false,
+      "first_seen_at": "2026-10-03T15:13:16+00:00",
+      "platforms": {},
+      "updated_at": "2026-10-03T15:13:16+00:00",
+      "youtube": {
+        "artist": "Dj Samir",
+        "original_title": "MONTAGEM ELDER (ULTRA SLOWED)",
+        "position": 81,
+        "title": "MONTAGEM ELDER",
+        "video_id": "qGNDabt9LU8"
+      }
+    },
+    "qksY6uW1BbI": {
+      "completed": false,
+      "first_seen_at": "2026-10-03T15:13:16+00:00",
+      "platforms": {},
+      "updated_at": "2026-10-03T15:13:16+00:00",
+      "youtube": {
+        "artist": "KHXXMU",
+        "original_title": "KHXXMU - MONTAGEM NA FAVELA",
+        "position": 108,
+        "title": "MONTAGEM NA FAVELA",
+        "video_id": "qksY6uW1BbI"
+      }
+    },
+    "qvGOZyMMKfU": {
+      "completed": false,
+      "first_seen_at": "2026-10-03T15:13:16+00:00",
+      "platforms": {},
+      "updated_at": "2026-10-03T15:13:16+00:00",
+      "youtube": {
+        "artist": "h6itam",
+        "original_title": "FUNK IGNOTO (Super Slowed)",
+        "position": 62,
+        "title": "FUNK IGNOTO",
+        "video_id": "qvGOZyMMKfU"
+      }
+    },
+    "rPrAlBnZcME": {
+      "completed": false,
+      "first_seen_at": "2026-10-03T15:13:16+00:00",
+      "platforms": {},
+      "updated_at": "2026-10-03T15:13:16+00:00",
+      "youtube": {
+        "artist": "Dj Samir, Nulteex, R9X",
+        "original_title": "Dj Samir, Nulteex, R9X - MONTAGEM KOKORO (Official Audio)",
+        "position": 88,
+        "title": "MONTAGEM KOKORO",
+        "video_id": "rPrAlBnZcME"
+      }
+    },
+    "rs5lOwacS4M": {
+      "completed": false,
+      "first_seen_at": "2026-10-03T15:13:16+00:00",
+      "platforms": {},
+      "updated_at": "2026-10-03T15:13:16+00:00",
+      "youtube": {
+        "artist": "LXNGVX",
+        "original_title": "LXNGVX - SUSSURRO",
+        "position": 98,
+        "title": "SUSSURRO",
+        "video_id": "rs5lOwacS4M"
+      }
+    },
+    "u5S_zzza_bQ": {
+      "completed": false,
+      "first_seen_at": "2026-10-03T15:13:16+00:00",
+      "platforms": {},
+      "updated_at": "2026-10-03T15:13:16+00:00",
+      "youtube": {
+        "artist": "Zhanbxqq",
+        "original_title": "MONTAGEM GEMINI",
+        "position": 105,
+        "title": "MONTAGEM GEMINI",
+        "video_id": "u5S_zzza_bQ"
+      }
+    },
+    "uKuZ8OFWBY4": {
+      "completed": false,
+      "first_seen_at": "2026-10-03T15:13:16+00:00",
+      "platforms": {},
+      "updated_at": "2026-10-03T15:13:16+00:00",
+      "youtube": {
+        "artist": "WUYS",
+        "original_title": "HIKARI (Slowed)",
+        "position": 113,
+        "title": "HIKARI",
+        "video_id": "uKuZ8OFWBY4"
+      }
+    },
+    "vA8s9whkjp8": {
+      "completed": false,
+      "first_seen_at": "2026-10-03T15:13:16+00:00",
+      "platforms": {},
+      "updated_at": "2026-10-03T15:13:16+00:00",
+      "youtube": {
+        "artist": "WXRTNAX",
+        "original_title": "MONTAGEM ESTRELA ZZXWNCH",
+        "position": 78,
+        "title": "MONTAGEM ESTRELA ZZXWNCH",
+        "video_id": "vA8s9whkjp8"
+      }
+    },
+    "vlFy1Nu_7mo": {
+      "completed": false,
+      "first_seen_at": "2026-10-03T15:13:16+00:00",
+      "platforms": {},
+      "updated_at": "2026-10-03T15:13:16+00:00",
+      "youtube": {
+        "artist": "Mishashi Sensei",
+        "original_title": "MONTAGEM LALALA",
+        "position": 104,
+        "title": "MONTAGEM LALALA",
+        "video_id": "vlFy1Nu_7mo"
+      }
+    },
+    "w30nc5SWDlg": {
+      "completed": false,
+      "first_seen_at": "2026-10-03T15:13:16+00:00",
+      "platforms": {},
+      "updated_at": "2026-10-03T15:13:16+00:00",
+      "youtube": {
+        "artist": "ALZO",
+        "original_title": "FUNK BINGO (Slowed)",
+        "position": 55,
+        "title": "FUNK BINGO",
+        "video_id": "w30nc5SWDlg"
+      }
+    },
+    "wGehOGFFf8o": {
+      "completed": false,
+      "first_seen_at": "2026-10-03T15:13:16+00:00",
+      "platforms": {},
+      "updated_at": "2026-10-03T15:13:16+00:00",
+      "youtube": {
+        "artist": "Avenxir",
+        "original_title": "MONTAGEM GUERREIRO",
+        "position": 69,
+        "title": "MONTAGEM GUERREIRO",
+        "video_id": "wGehOGFFf8o"
+      }
+    },
+    "wqEB_7o9rPk": {
+      "completed": false,
+      "first_seen_at": "2026-10-03T15:13:16+00:00",
+      "platforms": {},
+      "updated_at": "2026-10-03T15:13:16+00:00",
+      "youtube": {
+        "artist": "DJ V12",
+        "original_title": "FUNK ABNORMAL (SLOWED)",
+        "position": 72,
+        "title": "FUNK ABNORMAL",
+        "video_id": "wqEB_7o9rPk"
+      }
+    },
+    "yQ7pRSE2RTE": {
+      "completed": false,
+      "first_seen_at": "2026-10-03T15:13:16+00:00",
+      "platforms": {},
+      "updated_at": "2026-10-03T15:13:16+00:00",
+      "youtube": {
+        "artist": "RVNGE",
+        "original_title": "MONTAGEM OSCURIDA",
+        "position": 63,
+        "title": "MONTAGEM OSCURIDA",
+        "video_id": "yQ7pRSE2RTE"
+      }
+    },
+    "zQz_XCMSug8": {
+      "completed": false,
+      "first_seen_at": "2026-10-03T15:13:16+00:00",
+      "platforms": {},
+      "updated_at": "2026-10-03T15:13:16+00:00",
+      "youtube": {
+        "artist": "CHAXZER",
+        "original_title": "CORTA NO SALÃO (Slowed)",
+        "position": 87,
+        "title": "CORTA NO SALÃO",
+        "video_id": "zQz_XCMSug8"
+      }
+    },
+    "zWTejNoFLf0": {
+      "completed": false,
+      "first_seen_at": "2026-10-03T15:13:16+00:00",
+      "platforms": {},
+      "updated_at": "2026-10-03T15:13:16+00:00",
+      "youtube": {
+        "artist": "MarJan",
+        "original_title": "MONTAGEM DAUNTLESS",
+        "position": 64,
+        "title": "MONTAGEM DAUNTLESS",
+        "video_id": "zWTejNoFLf0"
+      }
+    }
+  },
+  "updated_at": "2026-10-03T15:14:20+00:00",
+  "youtube_source_state": {
+    "backend": "yt-dlp",
+    "head_video_id": "Tnec4JVBt2U",
+    "head_window_ids": [
+      "Tnec4JVBt2U",
+      "f3lG-K2Zlxs",
+      "Z9fXQVcGjUU",
+      "hEJ8F93d2cE",
+      "LNj7YN3p_yE",
+      "uOzAGSmRa88",
+      "l6OxBaWf8Sg",
+      "EVH7s8oRZho",
+      "mRM-ghvJT4c",
+      "MLEGcEUAt9Y",
+      "ZeOsI3Pdl78",
+      "OA4UHObQBTA",
+      "fa6iJXgBKlI",
+      "AsUcDx0Hhsc",
+      "Kd4cg95M6I0",
+      "oslSPrcxjok",
+      "z_P-UrhqwfY",
+      "oapHDYESMi0",
+      "63mj4Lw7my4",
+      "9xWEONcxbyE",
+      "CfYvtsgyWao",
+      "pCS76UDcuHM",
+      "dJCIc6VvBbw",
+      "QE7ORjhbQy4",
+      "5oS00mOZCls",
+      "x6BquE2_AOs",
+      "2zgon0ZUOFk",
+      "4FUPT3r8mKE",
+      "Sit5u_vqmYQ",
+      "EM51vqLJL68",
+      "ArM48uyECSo",
+      "0CppBx7LFLA",
+      "FGys9rRBytU",
+      "jN0FZyN8PqI",
+      "Bb-ceGxpKaQ",
+      "F3bg4xX_LP8",
+      "M0a_E63GckQ",
+      "qxB3GM9ScQI",
+      "S9FURMsQY2Y",
+      "sUidFU1nPr8",
+      "6gR_ccu_994",
+      "VPJJkysH6w8",
+      "eKx3aT524_E",
+      "DHbIwQMv1O4",
+      "bqwomfQFyVE",
+      "9vFq0SOu4ks",
+      "dJmfAaqvliQ",
+      "0_O22SpI9lI",
+      "9qttntb8jzk",
+      "BtU4RJYoSB4"
+    ],
+    "ignored_video_ids": [
+      "Tnec4JVBt2U",
+      "f3lG-K2Zlxs",
+      "Z9fXQVcGjUU",
+      "hEJ8F93d2cE",
+      "LNj7YN3p_yE",
+      "uOzAGSmRa88",
+      "l6OxBaWf8Sg",
+      "EVH7s8oRZho",
+      "mRM-ghvJT4c",
+      "MLEGcEUAt9Y",
+      "ZeOsI3Pdl78",
+      "OA4UHObQBTA",
+      "fa6iJXgBKlI",
+      "AsUcDx0Hhsc",
+      "Kd4cg95M6I0",
+      "oslSPrcxjok",
+      "z_P-UrhqwfY",
+      "oapHDYESMi0",
+      "63mj4Lw7my4",
+      "9xWEONcxbyE",
+      "CfYvtsgyWao",
+      "pCS76UDcuHM",
+      "dJCIc6VvBbw",
+      "QE7ORjhbQy4",
+      "5oS00mOZCls",
+      "x6BquE2_AOs",
+      "2zgon0ZUOFk",
+      "4FUPT3r8mKE",
+      "Sit5u_vqmYQ",
+      "EM51vqLJL68",
+      "ArM48uyECSo",
+      "0CppBx7LFLA",
+      "FGys9rRBytU",
+      "jN0FZyN8PqI",
+      "Bb-ceGxpKaQ",
+      "F3bg4xX_LP8",
+      "M0a_E63GckQ",
+      "qxB3GM9ScQI",
+      "S9FURMsQY2Y",
+      "sUidFU1nPr8",
+      "6gR_ccu_994",
+      "VPJJkysH6w8",
+      "eKx3aT524_E",
+      "DHbIwQMv1O4",
+      "bqwomfQFyVE",
+      "9vFq0SOu4ks",
+      "dJmfAaqvliQ",
+      "0_O22SpI9lI",
+      "9qttntb8jzk",
+      "BtU4RJYoSB4"
+    ],
+    "item_count": 125,
+    "last_full_scan_at": "2026-10-03T15:13:16+00:00",
+    "last_observed_video_id": "dOcTxjnGZps",
+    "playlist_etag": "",
+    "playlist_id": "PLUZA3HbIj2IfyaRs6YrcctsjQO8vPCUHE",
+    "tail_page_token": "",
+    "tail_video_id": "dOcTxjnGZps",
+    "tail_window_ids": [
+      "fmrsBXzj22Q",
+      "nXEDDjpvjxU",
+      "vA8s9whkjp8",
+      "mpdLDTi_inA",
+      "PSK47oPcwWw",
+      "qGNDabt9LU8",
+      "ZxSgImC8IiQ",
+      "OxoUlTei_ew",
+      "el7WwyFLjy0",
+      "LtK1bRqOM8g",
+      "OLwlgKlLy00",
+      "zQz_XCMSug8",
+      "rPrAlBnZcME",
+      "Fb-YYMMNP-0",
+      "QYoLLoQ1J-Q",
+      "4E4VaL5krv8",
+      "a9WGBSol0oM",
+      "S_dY76TsVDU",
+      "Md3MdKXBxiE",
+      "IKy169GvdDM",
+      "2PY90LSbExU",
+      "GDjjGbdg3n4",
+      "rs5lOwacS4M",
+      "XgMKhYAYkYo",
+      "0KZBm3mzfRw",
+      "Uzos_GJmM6E",
+      "d1vUvvOvCyI",
+      "6snDsbwxRUI",
+      "vlFy1Nu_7mo",
+      "u5S_zzza_bQ",
+      "_KYsdNsowoY",
+      "UIuBtl4rz0E",
+      "qksY6uW1BbI",
+      "0oGnvlK40_Y",
+      "0v4itL2JeBg",
+      "_32iiJ7-rVk",
+      "0TP-VCsfieE",
+      "uKuZ8OFWBY4",
+      "SLak4Ercj9o",
+      "5FiGZLmPqyM",
+      "NGfj_7pNd5o",
+      "VmpDIEajzsc",
+      "k5zMNFGfb7I",
+      "DoM3DiFnXxM",
+      "4psxpQEx11g",
+      "MeamyO9UxPk",
+      "E-oPcDnX738",
+      "W8RoW58lPTk",
+      "KgayxOF4Y7E",
+      "dOcTxjnGZps"
+    ],
+    "updated_at": "2026-10-03T15:13:16+00:00",
+    "version": 1
+  }
 }
