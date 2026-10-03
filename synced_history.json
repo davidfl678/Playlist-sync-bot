@@ -241,12 +241,12 @@
       "first_seen_at": "2026-10-03T15:13:16+00:00",
       "platforms": {
         "spotify": {
-          "detail": "Spotify: API request failed (HTTP 429)",
-          "status": "error",
-          "updated_at": "2026-10-03T15:14:20+00:00"
+          "detail": "Spotify: rate limit persisted after retries; server requested another 1s delay",
+          "status": "rate_limited",
+          "updated_at": "2026-10-03T15:43:18+00:00"
         }
       },
-      "updated_at": "2026-10-03T15:14:20+00:00",
+      "updated_at": "2026-10-03T15:43:18+00:00",
       "youtube": {
         "artist": "QMIIR",
         "original_title": "YALA FUNK",
@@ -984,7 +984,7 @@
       }
     }
   },
-  "updated_at": "2026-10-03T15:14:20+00:00",
+  "updated_at": "2026-10-03T15:43:18+00:00",
   "youtube_source_state": {
     "backend": "yt-dlp",
     "head_video_id": "Tnec4JVBt2U",
