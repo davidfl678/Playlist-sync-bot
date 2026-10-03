@@ -184,6 +184,35 @@
         "video_id": "Ar09G1EFHCI"
       }
     },
+    "C5c2apTgZcw": {
+      "completed": false,
+      "first_seen_at": "2026-10-03T22:17:57+00:00",
+      "platforms": {
+        "audiomack": {
+          "detail": "Audiomack: authentication rejected (HTTP 401)",
+          "status": "error",
+          "updated_at": "2026-10-03T22:19:29+00:00"
+        },
+        "soundcloud": {
+          "detail": "SoundCloud: authentication rejected (HTTP 401)",
+          "status": "error",
+          "updated_at": "2026-10-03T22:19:24+00:00"
+        },
+        "spotify": {
+          "detail": "Spotify: rate limit persisted after retries; server requested another 1s delay",
+          "status": "rate_limited",
+          "updated_at": "2026-10-03T22:19:18+00:00"
+        }
+      },
+      "updated_at": "2026-10-03T22:19:29+00:00",
+      "youtube": {
+        "artist": "Kverz",
+        "original_title": "DICES TU (Slowed)",
+        "position": 35,
+        "title": "DICES TU",
+        "video_id": "C5c2apTgZcw"
+      }
+    },
     "DoM3DiFnXxM": {
       "completed": false,
       "first_seen_at": "2026-10-03T15:13:16+00:00",
@@ -994,13 +1023,12 @@
       }
     }
   },
-  "updated_at": "2026-10-03T16:19:29+00:00",
+  "updated_at": "2026-10-03T22:19:29+00:00",
   "youtube_source_state": {
     "backend": "yt-dlp",
     "head_video_id": "Tnec4JVBt2U",
     "head_window_ids": [
       "Tnec4JVBt2U",
-      "f3lG-K2Zlxs",
       "Z9fXQVcGjUU",
       "hEJ8F93d2cE",
       "LNj7YN3p_yE",
@@ -1034,6 +1062,7 @@
       "FGys9rRBytU",
       "jN0FZyN8PqI",
       "Bb-ceGxpKaQ",
+      "C5c2apTgZcw",
       "F3bg4xX_LP8",
       "M0a_E63GckQ",
       "qxB3GM9ScQI",
@@ -1103,7 +1132,7 @@
       "BtU4RJYoSB4"
     ],
     "item_count": 125,
-    "last_full_scan_at": "2026-10-03T15:13:16+00:00",
+    "last_full_scan_at": "2026-10-03T22:17:57+00:00",
     "last_observed_video_id": "dOcTxjnGZps",
     "playlist_etag": "",
     "playlist_id": "PLUZA3HbIj2IfyaRs6YrcctsjQO8vPCUHE",
@@ -1161,7 +1190,7 @@
       "KgayxOF4Y7E",
       "dOcTxjnGZps"
     ],
-    "updated_at": "2026-10-03T15:13:16+00:00",
+    "updated_at": "2026-10-03T22:17:57+00:00",
     "version": 1
   }
 }
