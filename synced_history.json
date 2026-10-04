@@ -320,6 +320,19 @@
         "video_id": "IKy169GvdDM"
       }
     },
+    "JAbElEFfhd8": {
+      "completed": false,
+      "first_seen_at": "2026-10-04T18:13:12+00:00",
+      "platforms": {},
+      "updated_at": "2026-10-04T18:13:12+00:00",
+      "youtube": {
+        "artist": "ALZO",
+        "original_title": "MONTAGEM ELYRA ATOMIC",
+        "position": 72,
+        "title": "MONTAGEM ELYRA ATOMIC",
+        "video_id": "JAbElEFfhd8"
+      }
+    },
     "JHN04NxLWJM": {
       "completed": false,
       "first_seen_at": "2026-10-04T11:21:27+00:00",
@@ -327,20 +340,20 @@
         "audiomack": {
           "detail": "Audiomack: authentication rejected (HTTP 401)",
           "status": "error",
-          "updated_at": "2026-10-04T11:23:28+00:00"
+          "updated_at": "2026-10-04T18:14:31+00:00"
         },
         "soundcloud": {
           "detail": "SoundCloud: authentication rejected (HTTP 401)",
           "status": "error",
-          "updated_at": "2026-10-04T11:23:24+00:00"
+          "updated_at": "2026-10-04T18:14:27+00:00"
         },
         "spotify": {
-          "detail": "Spotify: rate limit persisted after retries; server requested another 1s delay",
+          "detail": "Spotify: rate limit persisted after retries; server requested another 58s delay",
           "status": "rate_limited",
-          "updated_at": "2026-10-04T11:23:18+00:00"
+          "updated_at": "2026-10-04T18:14:21+00:00"
         }
       },
-      "updated_at": "2026-10-04T11:23:28+00:00",
+      "updated_at": "2026-10-04T18:14:31+00:00",
       "youtube": {
         "artist": "TheBlvcks",
         "original_title": "Ya No Estás (Slowed)",
@@ -1052,7 +1065,7 @@
       }
     }
   },
-  "updated_at": "2026-10-04T11:23:28+00:00",
+  "updated_at": "2026-10-04T18:14:31+00:00",
   "youtube_source_state": {
     "backend": "yt-dlp",
     "head_video_id": "Tnec4JVBt2U",
@@ -1160,8 +1173,8 @@
       "9qttntb8jzk",
       "BtU4RJYoSB4"
     ],
-    "item_count": 126,
-    "last_full_scan_at": "2026-10-04T11:21:27+00:00",
+    "item_count": 127,
+    "last_full_scan_at": "2026-10-04T18:13:12+00:00",
     "last_observed_video_id": "dOcTxjnGZps",
     "playlist_etag": "",
     "playlist_id": "PLUZA3HbIj2IfyaRs6YrcctsjQO8vPCUHE",
@@ -1219,7 +1232,7 @@
       "KgayxOF4Y7E",
       "dOcTxjnGZps"
     ],
-    "updated_at": "2026-10-04T11:21:27+00:00",
+    "updated_at": "2026-10-04T18:13:12+00:00",
     "version": 1
   }
 }
