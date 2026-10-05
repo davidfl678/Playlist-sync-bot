@@ -340,20 +340,20 @@
         "audiomack": {
           "detail": "Audiomack: authentication rejected (HTTP 401)",
           "status": "error",
-          "updated_at": "2026-10-05T00:20:28+00:00"
+          "updated_at": "2026-10-05T06:21:28+00:00"
         },
         "soundcloud": {
           "detail": "SoundCloud: authentication rejected (HTTP 401)",
           "status": "error",
-          "updated_at": "2026-10-05T00:20:24+00:00"
+          "updated_at": "2026-10-05T06:21:24+00:00"
         },
         "spotify": {
           "detail": "Spotify: rate limit persisted after retries; server requested another 1s delay",
           "status": "rate_limited",
-          "updated_at": "2026-10-05T00:20:18+00:00"
+          "updated_at": "2026-10-05T06:21:18+00:00"
         }
       },
-      "updated_at": "2026-10-05T00:20:28+00:00",
+      "updated_at": "2026-10-05T06:21:28+00:00",
       "youtube": {
         "artist": "TheBlvcks",
         "original_title": "Ya No Estás (Slowed)",
@@ -1065,7 +1065,7 @@
       }
     }
   },
-  "updated_at": "2026-10-05T00:20:28+00:00",
+  "updated_at": "2026-10-05T06:21:28+00:00",
   "youtube_source_state": {
     "backend": "yt-dlp",
     "head_video_id": "Tnec4JVBt2U",
