@@ -518,6 +518,48 @@
         "video_id": "S_dY76TsVDU"
       }
     },
+    "SyDsI79vTpk": {
+      "completed": false,
+      "first_seen_at": "2026-10-07T12:17:55+00:00",
+      "platforms": {},
+      "updated_at": "2026-10-07T12:17:55+00:00",
+      "youtube": {
+        "artist": "Rozer_rev",
+        "original_title": "FUNK ABISMO (Slowed)",
+        "position": 8,
+        "title": "FUNK ABISMO",
+        "video_id": "SyDsI79vTpk"
+      }
+    },
+    "U8T_TwEGTWA": {
+      "completed": false,
+      "first_seen_at": "2026-10-07T12:17:55+00:00",
+      "platforms": {
+        "audiomack": {
+          "detail": "Audiomack: authentication rejected (HTTP 401)",
+          "status": "error",
+          "updated_at": "2026-10-07T12:19:28+00:00"
+        },
+        "soundcloud": {
+          "detail": "SoundCloud: authentication rejected (HTTP 401)",
+          "status": "error",
+          "updated_at": "2026-10-07T12:19:24+00:00"
+        },
+        "spotify": {
+          "detail": "Spotify: rate limit persisted after retries; server requested another 1s delay",
+          "status": "rate_limited",
+          "updated_at": "2026-10-07T12:19:18+00:00"
+        }
+      },
+      "updated_at": "2026-10-07T12:19:28+00:00",
+      "youtube": {
+        "artist": "h6itam",
+        "original_title": "FUNK HERIDO (SLOWED)",
+        "position": 2,
+        "title": "FUNK HERIDO",
+        "video_id": "U8T_TwEGTWA"
+      }
+    },
     "UIuBtl4rz0E": {
       "completed": false,
       "first_seen_at": "2026-10-03T15:13:16+00:00",
@@ -1065,17 +1107,19 @@
       }
     }
   },
-  "updated_at": "2026-10-07T06:16:31+00:00",
+  "updated_at": "2026-10-07T12:19:28+00:00",
   "youtube_source_state": {
     "backend": "yt-dlp",
     "head_video_id": "Tnec4JVBt2U",
     "head_window_ids": [
       "Tnec4JVBt2U",
+      "U8T_TwEGTWA",
       "Z9fXQVcGjUU",
       "hEJ8F93d2cE",
       "LNj7YN3p_yE",
       "uOzAGSmRa88",
       "JHN04NxLWJM",
+      "SyDsI79vTpk",
       "l6OxBaWf8Sg",
       "EVH7s8oRZho",
       "mRM-ghvJT4c",
@@ -1117,9 +1161,7 @@
       "DHbIwQMv1O4",
       "bqwomfQFyVE",
       "9vFq0SOu4ks",
-      "dJmfAaqvliQ",
-      "0_O22SpI9lI",
-      "9qttntb8jzk"
+      "dJmfAaqvliQ"
     ],
     "ignored_video_ids": [
       "Tnec4JVBt2U",
@@ -1173,8 +1215,8 @@
       "9qttntb8jzk",
       "BtU4RJYoSB4"
     ],
-    "item_count": 127,
-    "last_full_scan_at": "2026-10-07T00:19:24+00:00",
+    "item_count": 129,
+    "last_full_scan_at": "2026-10-07T12:17:55+00:00",
     "last_observed_video_id": "dOcTxjnGZps",
     "playlist_etag": "",
     "playlist_id": "PLUZA3HbIj2IfyaRs6YrcctsjQO8vPCUHE",
@@ -1232,7 +1274,7 @@
       "KgayxOF4Y7E",
       "dOcTxjnGZps"
     ],
-    "updated_at": "2026-10-07T00:19:24+00:00",
+    "updated_at": "2026-10-07T12:17:55+00:00",
     "version": 1
   }
 }
