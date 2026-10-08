@@ -538,26 +538,39 @@
         "audiomack": {
           "detail": "Audiomack: authentication rejected (HTTP 401)",
           "status": "error",
-          "updated_at": "2026-10-08T00:19:28+00:00"
+          "updated_at": "2026-10-08T06:19:29+00:00"
         },
         "soundcloud": {
           "detail": "SoundCloud: authentication rejected (HTTP 401)",
           "status": "error",
-          "updated_at": "2026-10-08T00:19:24+00:00"
+          "updated_at": "2026-10-08T06:19:25+00:00"
         },
         "spotify": {
           "detail": "Spotify: rate limit persisted after retries; server requested another 1s delay",
           "status": "rate_limited",
-          "updated_at": "2026-10-08T00:19:18+00:00"
+          "updated_at": "2026-10-08T06:19:18+00:00"
         }
       },
-      "updated_at": "2026-10-08T00:19:28+00:00",
+      "updated_at": "2026-10-08T06:19:29+00:00",
       "youtube": {
         "artist": "h6itam",
         "original_title": "FUNK HERIDO (SLOWED)",
         "position": 2,
         "title": "FUNK HERIDO",
         "video_id": "U8T_TwEGTWA"
+      }
+    },
+    "UCJmbsWvJkI": {
+      "completed": false,
+      "first_seen_at": "2026-10-08T06:17:48+00:00",
+      "platforms": {},
+      "updated_at": "2026-10-08T06:17:48+00:00",
+      "youtube": {
+        "artist": "DJ Javi26",
+        "original_title": "MONTAGEM SIGNAL (Super Slowed)",
+        "position": 12,
+        "title": "MONTAGEM SIGNAL",
+        "video_id": "UCJmbsWvJkI"
       }
     },
     "UIuBtl4rz0E": {
@@ -1107,7 +1120,7 @@
       }
     }
   },
-  "updated_at": "2026-10-08T00:19:28+00:00",
+  "updated_at": "2026-10-08T06:19:29+00:00",
   "youtube_source_state": {
     "backend": "yt-dlp",
     "head_video_id": "Tnec4JVBt2U",
@@ -1123,6 +1136,7 @@
       "l6OxBaWf8Sg",
       "EVH7s8oRZho",
       "mRM-ghvJT4c",
+      "UCJmbsWvJkI",
       "MLEGcEUAt9Y",
       "ZeOsI3Pdl78",
       "OA4UHObQBTA",
@@ -1160,8 +1174,7 @@
       "eKx3aT524_E",
       "DHbIwQMv1O4",
       "bqwomfQFyVE",
-      "9vFq0SOu4ks",
-      "dJmfAaqvliQ"
+      "9vFq0SOu4ks"
     ],
     "ignored_video_ids": [
       "Tnec4JVBt2U",
@@ -1215,8 +1228,8 @@
       "9qttntb8jzk",
       "BtU4RJYoSB4"
     ],
-    "item_count": 129,
-    "last_full_scan_at": "2026-10-07T12:17:55+00:00",
+    "item_count": 130,
+    "last_full_scan_at": "2026-10-08T06:17:48+00:00",
     "last_observed_video_id": "dOcTxjnGZps",
     "playlist_etag": "",
     "playlist_id": "PLUZA3HbIj2IfyaRs6YrcctsjQO8vPCUHE",
@@ -1274,7 +1287,7 @@
       "KgayxOF4Y7E",
       "dOcTxjnGZps"
     ],
-    "updated_at": "2026-10-07T12:17:55+00:00",
+    "updated_at": "2026-10-08T06:17:48+00:00",
     "version": 1
   }
 }
