@@ -184,6 +184,19 @@
         "video_id": "Ar09G1EFHCI"
       }
     },
+    "AxinDfaW3GA": {
+      "completed": false,
+      "first_seen_at": "2026-10-09T18:14:15+00:00",
+      "platforms": {},
+      "updated_at": "2026-10-09T18:14:15+00:00",
+      "youtube": {
+        "artist": "R. Bou",
+        "original_title": "MAGNETIZMO (Slowed)",
+        "position": 3,
+        "title": "MAGNETIZMO",
+        "video_id": "AxinDfaW3GA"
+      }
+    },
     "C5c2apTgZcw": {
       "completed": false,
       "first_seen_at": "2026-10-03T22:17:57+00:00",
@@ -516,6 +529,19 @@
         "position": 93,
         "title": "FUNK SERENO",
         "video_id": "S_dY76TsVDU"
+      }
+    },
+    "SsNaMR_E8IA": {
+      "completed": false,
+      "first_seen_at": "2026-10-09T18:14:15+00:00",
+      "platforms": {},
+      "updated_at": "2026-10-09T18:14:15+00:00",
+      "youtube": {
+        "artist": "Anitor",
+        "original_title": "VAI PESANDO - SLOWED",
+        "position": 2,
+        "title": "VAI PESANDO",
+        "video_id": "SsNaMR_E8IA"
       }
     },
     "SyDsI79vTpk": {
@@ -989,6 +1015,35 @@
         "video_id": "rs5lOwacS4M"
       }
     },
+    "rtMyIrxh_6M": {
+      "completed": false,
+      "first_seen_at": "2026-10-09T18:14:15+00:00",
+      "platforms": {
+        "audiomack": {
+          "detail": "Audiomack: authentication rejected (HTTP 401)",
+          "status": "error",
+          "updated_at": "2026-10-09T18:16:30+00:00"
+        },
+        "soundcloud": {
+          "detail": "SoundCloud: authentication rejected (HTTP 401)",
+          "status": "error",
+          "updated_at": "2026-10-09T18:16:27+00:00"
+        },
+        "spotify": {
+          "detail": "Spotify: rate limit persisted after retries; server requested another 1s delay",
+          "status": "rate_limited",
+          "updated_at": "2026-10-09T18:16:18+00:00"
+        }
+      },
+      "updated_at": "2026-10-09T18:16:30+00:00",
+      "youtube": {
+        "artist": "Zericxxn",
+        "original_title": "MALEMO (Slowed)",
+        "position": 1,
+        "title": "MALEMO",
+        "video_id": "rtMyIrxh_6M"
+      }
+    },
     "u5S_zzza_bQ": {
       "completed": false,
       "first_seen_at": "2026-10-03T15:13:16+00:00",
@@ -1120,11 +1175,14 @@
       }
     }
   },
-  "updated_at": "2026-10-09T12:17:29+00:00",
+  "updated_at": "2026-10-09T18:16:30+00:00",
   "youtube_source_state": {
     "backend": "yt-dlp",
-    "head_video_id": "Tnec4JVBt2U",
+    "head_video_id": "rtMyIrxh_6M",
     "head_window_ids": [
+      "rtMyIrxh_6M",
+      "SsNaMR_E8IA",
+      "AxinDfaW3GA",
       "Tnec4JVBt2U",
       "U8T_TwEGTWA",
       "Z9fXQVcGjUU",
@@ -1171,64 +1229,61 @@
       "sUidFU1nPr8",
       "6gR_ccu_994",
       "VPJJkysH6w8",
-      "eKx3aT524_E",
-      "DHbIwQMv1O4",
-      "bqwomfQFyVE",
-      "9vFq0SOu4ks"
+      "eKx3aT524_E"
     ],
     "ignored_video_ids": [
-      "Tnec4JVBt2U",
-      "f3lG-K2Zlxs",
-      "Z9fXQVcGjUU",
-      "hEJ8F93d2cE",
-      "LNj7YN3p_yE",
-      "uOzAGSmRa88",
-      "l6OxBaWf8Sg",
-      "EVH7s8oRZho",
-      "mRM-ghvJT4c",
-      "MLEGcEUAt9Y",
-      "ZeOsI3Pdl78",
-      "OA4UHObQBTA",
-      "fa6iJXgBKlI",
-      "AsUcDx0Hhsc",
-      "Kd4cg95M6I0",
-      "oslSPrcxjok",
-      "z_P-UrhqwfY",
-      "oapHDYESMi0",
-      "63mj4Lw7my4",
-      "9xWEONcxbyE",
-      "CfYvtsgyWao",
-      "pCS76UDcuHM",
-      "dJCIc6VvBbw",
-      "QE7ORjhbQy4",
-      "5oS00mOZCls",
-      "x6BquE2_AOs",
+      "0CppBx7LFLA",
+      "0_O22SpI9lI",
       "2zgon0ZUOFk",
       "4FUPT3r8mKE",
-      "Sit5u_vqmYQ",
-      "EM51vqLJL68",
-      "ArM48uyECSo",
-      "0CppBx7LFLA",
-      "FGys9rRBytU",
-      "jN0FZyN8PqI",
-      "Bb-ceGxpKaQ",
-      "F3bg4xX_LP8",
-      "M0a_E63GckQ",
-      "qxB3GM9ScQI",
-      "S9FURMsQY2Y",
-      "sUidFU1nPr8",
+      "5oS00mOZCls",
+      "63mj4Lw7my4",
       "6gR_ccu_994",
-      "VPJJkysH6w8",
-      "eKx3aT524_E",
-      "DHbIwQMv1O4",
-      "bqwomfQFyVE",
-      "9vFq0SOu4ks",
-      "dJmfAaqvliQ",
-      "0_O22SpI9lI",
       "9qttntb8jzk",
-      "BtU4RJYoSB4"
+      "9vFq0SOu4ks",
+      "9xWEONcxbyE",
+      "ArM48uyECSo",
+      "AsUcDx0Hhsc",
+      "Bb-ceGxpKaQ",
+      "BtU4RJYoSB4",
+      "CfYvtsgyWao",
+      "DHbIwQMv1O4",
+      "EM51vqLJL68",
+      "EVH7s8oRZho",
+      "F3bg4xX_LP8",
+      "FGys9rRBytU",
+      "Kd4cg95M6I0",
+      "LNj7YN3p_yE",
+      "M0a_E63GckQ",
+      "MLEGcEUAt9Y",
+      "OA4UHObQBTA",
+      "QE7ORjhbQy4",
+      "S9FURMsQY2Y",
+      "Sit5u_vqmYQ",
+      "Tnec4JVBt2U",
+      "VPJJkysH6w8",
+      "Z9fXQVcGjUU",
+      "ZeOsI3Pdl78",
+      "bqwomfQFyVE",
+      "dJCIc6VvBbw",
+      "dJmfAaqvliQ",
+      "eKx3aT524_E",
+      "f3lG-K2Zlxs",
+      "fa6iJXgBKlI",
+      "hEJ8F93d2cE",
+      "jN0FZyN8PqI",
+      "l6OxBaWf8Sg",
+      "mRM-ghvJT4c",
+      "oapHDYESMi0",
+      "oslSPrcxjok",
+      "pCS76UDcuHM",
+      "qxB3GM9ScQI",
+      "sUidFU1nPr8",
+      "uOzAGSmRa88",
+      "x6BquE2_AOs",
+      "z_P-UrhqwfY"
     ],
-    "item_count": 130,
+    "item_count": 133,
     "last_full_scan_at": "2026-10-09T12:15:51+00:00",
     "last_observed_video_id": "dOcTxjnGZps",
     "playlist_etag": "",
@@ -1287,7 +1342,7 @@
       "KgayxOF4Y7E",
       "dOcTxjnGZps"
     ],
-    "updated_at": "2026-10-09T12:15:51+00:00",
+    "updated_at": "2026-10-09T18:14:15+00:00",
     "version": 1
   }
 }
