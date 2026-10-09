@@ -538,20 +538,20 @@
         "audiomack": {
           "detail": "Audiomack: authentication rejected (HTTP 401)",
           "status": "error",
-          "updated_at": "2026-10-08T18:16:29+00:00"
+          "updated_at": "2026-10-09T00:22:28+00:00"
         },
         "soundcloud": {
           "detail": "SoundCloud: authentication rejected (HTTP 401)",
           "status": "error",
-          "updated_at": "2026-10-08T18:16:25+00:00"
+          "updated_at": "2026-10-09T00:22:24+00:00"
         },
         "spotify": {
-          "detail": "Spotify: rate limit persisted after retries; server requested another 59s delay",
+          "detail": "Spotify: rate limit persisted after retries; server requested another 1s delay",
           "status": "rate_limited",
-          "updated_at": "2026-10-08T18:16:19+00:00"
+          "updated_at": "2026-10-09T00:22:18+00:00"
         }
       },
-      "updated_at": "2026-10-08T18:16:29+00:00",
+      "updated_at": "2026-10-09T00:22:28+00:00",
       "youtube": {
         "artist": "h6itam",
         "original_title": "FUNK HERIDO (SLOWED)",
@@ -1120,7 +1120,7 @@
       }
     }
   },
-  "updated_at": "2026-10-08T18:16:29+00:00",
+  "updated_at": "2026-10-09T00:22:28+00:00",
   "youtube_source_state": {
     "backend": "yt-dlp",
     "head_video_id": "Tnec4JVBt2U",
