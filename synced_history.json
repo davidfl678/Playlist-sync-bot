@@ -781,6 +781,19 @@
         "video_id": "aucH-o1WDtE"
       }
     },
+    "bZEZJCnNwYI": {
+      "completed": false,
+      "first_seen_at": "2026-10-10T12:14:25+00:00",
+      "platforms": {},
+      "updated_at": "2026-10-10T12:14:25+00:00",
+      "youtube": {
+        "artist": "SCARIONIX",
+        "original_title": "MONTAGEM KALI (Slowed)",
+        "position": 22,
+        "title": "MONTAGEM KALI",
+        "video_id": "bZEZJCnNwYI"
+      }
+    },
     "cIgdYy0ZcTM": {
       "completed": false,
       "first_seen_at": "2026-10-03T15:13:16+00:00",
@@ -870,6 +883,19 @@
         "position": 76,
         "title": "LOUCARA FUNK!",
         "video_id": "fmrsBXzj22Q"
+      }
+    },
+    "jFbsIonUxC4": {
+      "completed": false,
+      "first_seen_at": "2026-10-10T12:14:25+00:00",
+      "platforms": {},
+      "updated_at": "2026-10-10T12:14:25+00:00",
+      "youtube": {
+        "artist": "DJ SKZ",
+        "original_title": "COMO TU (SLOWED)",
+        "position": 74,
+        "title": "COMO TU",
+        "video_id": "jFbsIonUxC4"
       }
     },
     "k5zMNFGfb7I": {
@@ -1022,20 +1048,20 @@
         "audiomack": {
           "detail": "Audiomack: authentication rejected (HTTP 401)",
           "status": "error",
-          "updated_at": "2026-10-10T06:17:28+00:00"
+          "updated_at": "2026-10-10T12:16:28+00:00"
         },
         "soundcloud": {
           "detail": "SoundCloud: authentication rejected (HTTP 401)",
           "status": "error",
-          "updated_at": "2026-10-10T06:17:24+00:00"
+          "updated_at": "2026-10-10T12:16:24+00:00"
         },
         "spotify": {
           "detail": "Spotify: rate limit persisted after retries; server requested another 1s delay",
           "status": "rate_limited",
-          "updated_at": "2026-10-10T06:17:18+00:00"
+          "updated_at": "2026-10-10T12:16:18+00:00"
         }
       },
-      "updated_at": "2026-10-10T06:17:28+00:00",
+      "updated_at": "2026-10-10T12:16:28+00:00",
       "youtube": {
         "artist": "Zericxxn",
         "original_title": "MALEMO (Slowed)",
@@ -1175,7 +1201,7 @@
       }
     }
   },
-  "updated_at": "2026-10-10T06:17:28+00:00",
+  "updated_at": "2026-10-10T12:16:28+00:00",
   "youtube_source_state": {
     "backend": "yt-dlp",
     "head_video_id": "rtMyIrxh_6M",
@@ -1201,6 +1227,7 @@
       "fa6iJXgBKlI",
       "AsUcDx0Hhsc",
       "Kd4cg95M6I0",
+      "bZEZJCnNwYI",
       "oslSPrcxjok",
       "z_P-UrhqwfY",
       "oapHDYESMi0",
@@ -1228,8 +1255,7 @@
       "S9FURMsQY2Y",
       "sUidFU1nPr8",
       "6gR_ccu_994",
-      "VPJJkysH6w8",
-      "eKx3aT524_E"
+      "VPJJkysH6w8"
     ],
     "ignored_video_ids": [
       "0CppBx7LFLA",
@@ -1283,8 +1309,8 @@
       "x6BquE2_AOs",
       "z_P-UrhqwfY"
     ],
-    "item_count": 133,
-    "last_full_scan_at": "2026-10-09T12:15:51+00:00",
+    "item_count": 135,
+    "last_full_scan_at": "2026-10-10T12:14:25+00:00",
     "last_observed_video_id": "dOcTxjnGZps",
     "playlist_etag": "",
     "playlist_id": "PLUZA3HbIj2IfyaRs6YrcctsjQO8vPCUHE",
@@ -1342,7 +1368,7 @@
       "KgayxOF4Y7E",
       "dOcTxjnGZps"
     ],
-    "updated_at": "2026-10-09T18:14:15+00:00",
+    "updated_at": "2026-10-10T12:14:25+00:00",
     "version": 1
   }
 }
