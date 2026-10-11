@@ -768,6 +768,19 @@
         "video_id": "ameHROYpzyc"
       }
     },
+    "angdVO_El6s": {
+      "completed": false,
+      "first_seen_at": "2026-10-11T00:18:50+00:00",
+      "platforms": {},
+      "updated_at": "2026-10-11T00:18:50+00:00",
+      "youtube": {
+        "artist": "MONTAGEM RUNE",
+        "original_title": "MONTAGEM RUNE - WUYS x KIT",
+        "position": 4,
+        "title": "WUYS x KIT",
+        "video_id": "angdVO_El6s"
+      }
+    },
     "aucH-o1WDtE": {
       "completed": false,
       "first_seen_at": "2026-10-03T15:13:16+00:00",
@@ -976,6 +989,19 @@
         "video_id": "nXEDDjpvjxU"
       }
     },
+    "pRs2d6p_EDo": {
+      "completed": false,
+      "first_seen_at": "2026-10-11T00:18:50+00:00",
+      "platforms": {},
+      "updated_at": "2026-10-11T00:18:50+00:00",
+      "youtube": {
+        "artist": "QUERO AMOR",
+        "original_title": "QUERO AMOR - SXYGX x FYU",
+        "position": 7,
+        "title": "SXYGX x FYU",
+        "video_id": "pRs2d6p_EDo"
+      }
+    },
     "qGNDabt9LU8": {
       "completed": false,
       "first_seen_at": "2026-10-03T15:13:16+00:00",
@@ -1048,20 +1074,20 @@
         "audiomack": {
           "detail": "Audiomack: authentication rejected (HTTP 401)",
           "status": "error",
-          "updated_at": "2026-10-10T18:14:28+00:00"
+          "updated_at": "2026-10-11T00:20:28+00:00"
         },
         "soundcloud": {
           "detail": "SoundCloud: authentication rejected (HTTP 401)",
           "status": "error",
-          "updated_at": "2026-10-10T18:14:24+00:00"
+          "updated_at": "2026-10-11T00:20:24+00:00"
         },
         "spotify": {
           "detail": "Spotify: rate limit persisted after retries; server requested another 1s delay",
           "status": "rate_limited",
-          "updated_at": "2026-10-10T18:14:18+00:00"
+          "updated_at": "2026-10-11T00:20:18+00:00"
         }
       },
-      "updated_at": "2026-10-10T18:14:28+00:00",
+      "updated_at": "2026-10-11T00:20:28+00:00",
       "youtube": {
         "artist": "Zericxxn",
         "original_title": "MALEMO (Slowed)",
@@ -1201,7 +1227,7 @@
       }
     }
   },
-  "updated_at": "2026-10-10T18:14:28+00:00",
+  "updated_at": "2026-10-11T00:20:28+00:00",
   "youtube_source_state": {
     "backend": "yt-dlp",
     "head_video_id": "rtMyIrxh_6M",
@@ -1209,8 +1235,10 @@
       "rtMyIrxh_6M",
       "SsNaMR_E8IA",
       "AxinDfaW3GA",
+      "angdVO_El6s",
       "Tnec4JVBt2U",
       "U8T_TwEGTWA",
+      "pRs2d6p_EDo",
       "Z9fXQVcGjUU",
       "hEJ8F93d2cE",
       "LNj7YN3p_yE",
@@ -1253,9 +1281,7 @@
       "M0a_E63GckQ",
       "qxB3GM9ScQI",
       "S9FURMsQY2Y",
-      "sUidFU1nPr8",
-      "6gR_ccu_994",
-      "VPJJkysH6w8"
+      "sUidFU1nPr8"
     ],
     "ignored_video_ids": [
       "0CppBx7LFLA",
@@ -1309,8 +1335,8 @@
       "x6BquE2_AOs",
       "z_P-UrhqwfY"
     ],
-    "item_count": 135,
-    "last_full_scan_at": "2026-10-10T12:14:25+00:00",
+    "item_count": 137,
+    "last_full_scan_at": "2026-10-11T00:18:50+00:00",
     "last_observed_video_id": "dOcTxjnGZps",
     "playlist_etag": "",
     "playlist_id": "PLUZA3HbIj2IfyaRs6YrcctsjQO8vPCUHE",
@@ -1368,7 +1394,7 @@
       "KgayxOF4Y7E",
       "dOcTxjnGZps"
     ],
-    "updated_at": "2026-10-10T12:14:25+00:00",
+    "updated_at": "2026-10-11T00:18:50+00:00",
     "version": 1
   }
 }
